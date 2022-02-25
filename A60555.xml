@@ -1,0 +1,588 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the royal fishings of Great Britain and Ireland with busses for pickled herrings and barrel-cod, after the manner of the Hollanders. With further discoveries and helps for the management thereof in a profitable way for the undertakers. Published for the satisfaction of all therein concern'd.</title>
+            <author>Smith, Simon, Agent for the Royall Fishing.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60555</idno>
+            <idno type="STC">Wing S4209</idno>
+            <idno type="STC">ESTC R223752</idno>
+            <idno type="EEBO-CITATION">99834036</idno>
+            <idno type="PROQUEST">99834036</idno>
+            <idno type="VID">38515</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38515)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1839:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the royal fishings of Great Britain and Ireland with busses for pickled herrings and barrel-cod, after the manner of the Hollanders. With further discoveries and helps for the management thereof in a profitable way for the undertakers. Published for the satisfaction of all therein concern'd.</title>
+                  <author>Smith, Simon, Agent for the Royall Fishing.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by W. Godbid in Little-Britain over against the Anchor-Inn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Simon Smith.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fisheries --  England --  Early works to 1800.</term>
+               <term>Fish trade --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38515:1"/>
+            <pb facs="tcp:38515:1" rendition="simple:additions"/>
+            <p>A NARRATIVE Of the Royal Fiſhings OF <hi>GREAT BRITAIN</hi> and <hi>IRELAND,</hi> with Buſſes for Pickled Herrings and Barrel-Cod, after the manner of the <hi>HOLLANDERS.</hi>
+            </p>
+            <p>WITH Further Diſcoveries and Helps for the Management thereof in a profitable way for the UNDERTAKERS.</p>
+            <p>Publiſhed for the ſatisfaction of all therein concern'd.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Godbid</hi> in <hi>Little-Britain</hi> over againſt the <hi>Anchor</hi>-Inn. 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:38515:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:38515:2"/>
+            <head>A NARRATIVE ABOUT <hi>The Royal Fiſhing.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N my former Treatiſe about the <hi>Royal Herring-Buſs-Trade,</hi> printed 1641. I have given directions for the build<g ref="char:EOLhyphen"/>ing, rigging, and fitting out of a Buſs in an experimental way, practiſed by the Right Honourable <hi>Philip</hi> Earl of <hi>Pembroke</hi> and <hi>Montgomery,</hi> Lord Chamberlain of His Majeſties Houſ<g ref="char:EOLhyphen"/>hold from the year 1632. till the year 1640. which was carried on in the way of an Aſſociation; by which many Buſſes were builded and imployed by the Dire<g ref="char:EOLhyphen"/>ctions of the Netherlandiſh-Fiſhermen, whom Sir <hi>William Courten</hi> of <hi>London</hi> Merchant procured, and got them Enden<g ref="char:EOLhyphen"/>nized, and they, their Wives and Children, dwelt here, and taught our Shipwrights to build Buſſes after the <hi>Holland</hi> man<g ref="char:EOLhyphen"/>ner; and cure the Herrings, and make the Nets, and all things thereunto belonging; by which means our Engliſh Fi<g ref="char:EOLhyphen"/>ſhermen attained to all the Arts and Skill thereof, and made many thouſand Barrels of pickled Herrings and Cod-fiſh, and did vent them in the places where the <hi>Hollander</hi> vented, and found current ſale, and full allowance of the goodneſs of
+<pb n="2" facs="tcp:38515:3"/>the Fiſh equal to the Hollanders; as by the ſeveral Factors Accompts, which the Author of this Treatiſe hath ready to be produced to any that are deſirous to peruſe them. Now ſince the printing of the ſaid Book, which was peruſed by a Parliament-Committee, and appointed to be publiſhed for the general direction of the whole Kingdom; whereof no fruit hitherto hath come to the Nation, though all generally approved of the Work; yet finding no man to put it into action, I was much diſcouraged thereat, having formerly in my Narrative made it plainly appear, that the ill ſucceſs we found in the way of our Aſſociations, was not through the unprofitableneſs of that Imployment, but in the unskilfull Managers thereof, and the extraordinary diſcouragements we encountred with; for the <hi>Dunkirkers</hi> and others the Subjects of the King of <hi>Spain</hi> in the <hi>Low-Countries,</hi> have taken ſundry of the Buſſes, impriſoned and evilly treated their Fiſhermen, ſome of them died in priſon, others they ranſomed at great ſums. The Damage which the ſaid Earl and his Aſſociates do juſtly challenge for their Buſſes ſo taken, loſs of men and Ranſoms, detention of their Goods, and preventing of their Fiſhing, amounts to 50000 <hi>l.</hi> and upwards. And having ſince met with a Book called <hi>Britain Buſs,</hi> printed in <hi>anno</hi> 1615. which doth very exactly ſet forth ſuch Inſtructions as the Au<g ref="char:EOLhyphen"/>thor could then attain unto, which he took upon enquiry and information, but not on his own knowledge or others practice, onely he cites Sir <hi>W. Harvy</hi> a noble Knight that builded and ſet out a Buſs of 100 Tun, whom I well knew, and had ſeve<g ref="char:EOLhyphen"/>ral meetings with at Mr. <hi>John Fletcher</hi>'s ſhop a Ropeſeller in <hi>Thames-ſtreet,</hi> who was Partner with him in the building the ſaid Buſs, in <hi>an.</hi> 1615. which no man ſeconded until the Lord Chamberlains Aſſociation, that began in the year 1632. as is before mentioned. Alſo I have ſeen ſundry Treatiſes that have been ſet forth about this Subject, as I finde by the Book called <hi>Lex Mercatoria,</hi> who cites one Book called, <hi>The Bri<g ref="char:EOLhyphen"/>tiſh Monarchy,</hi> printed in the year 1576. Another intituled, <hi>Hitchcocks New-years-gift,</hi> printed <hi>an.</hi> 1685. Another cal<g ref="char:EOLhyphen"/>led, <hi>Englands way to win wealth;</hi> and another called, <hi>The Trades Increaſe,</hi> in the year 1615. And the Author of the
+<pb n="3" facs="tcp:38515:3"/>Book called <hi>Lex Mercatoria,</hi> doth ſet forth, That its not much above 100 years ſince that the <hi>Hollanders</hi> Fiſhing-trade began for Herrings, Cod, and Ling, which took its original from the Engliſh. One named <hi>Violet Stevens,</hi> and other diſ<g ref="char:EOLhyphen"/>contented Fiſhmongers, which departed the Realm of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and went to the Town of <hi>Anchuſen,</hi> where they pro<g ref="char:EOLhyphen"/>cured the Inhabitants to fiſh for them in the Seas, Streams, and Dominions of <hi>Great Britain;</hi> which Inhabitants upon the deceaſe of the ſaid Engliſhmen took the whole Trade to themſelves, which afterwards was diſperſed into ſeveral Towns, whereby the Trade is ſo increaſed, that <hi>Holland</hi> and <hi>Zealand</hi> have above 2000 Buſſes and Fiſhing-Veſſels, which by the bleſſing of God that above 600000 Laſts of Fiſh are taken yearly in the Dominions of the King of <hi>Great Britain.</hi> And he ſaith, that one <hi>Tobias Gentleman</hi> a Fiſherman, made a Treatiſe, Intituled, <hi>Englands way to win Wealth;</hi> who ſaith they are ſeen to ſail out of the <hi>Maze, Texell,</hi> and flie 1000 Sayl together to catch Herrings in the North Seas, moſt of them Ships of 120, ſome of 100 Tuns, and others of 60 Tuns apiece; having in them 24 men, and ſome 20; ſome 16 men in a Veſſel, and they continue their courſe Northweſt and by North until they arrive at the Iſland of <hi>Sheteland,</hi> which lieth in the heighth of 60 Degrees of Northerly Lati<g ref="char:EOLhyphen"/>tude; and the Herrings which they take, are preſently ſent away by other Veſſels, called Yagors, into the Eaſt-countries, ſome to <hi>Riga</hi> and <hi>Revel,</hi> ſome to the <hi>Narve, Ruſſia,</hi> and <hi>Stock<g ref="char:EOLhyphen"/>holme;</hi> and all <hi>Poland, Pruſſia, Pomerland, Littuania, Stat<g ref="char:EOLhyphen"/>tene, Lubeck</hi> and <hi>Denmark, Deep, Burdeaux, Rochel, Nants, Morloix, Cane, Rouen, Paris, Amiens,</hi> and all <hi>Piccardy,</hi> &amp;c. Their Cod and Ling is done with ſmaller Ships of 40 Tuns burden, called Pinks or Well-boats. Alſo they have a Fleet of Fly-boats of 200 Tuns burden or more, which be at the North-eaſt of <hi>Sheteland,</hi> having ſmall Boats with them, called Cobbles; and the commodious Fiſher-Towns he notes to be <hi>Colcheſter, Harwich, Orford, Albor<g ref="char:EOLhyphen"/>rough, Dunnidge, Walderſwick, Sould, Yarmouth, Blackney, Wells, Lyn, Boston, Hull, Scarborough, Hartlepoole, Whittby, Marske, Stockton</hi> and <hi>Giſborough, Newcaſtle</hi> and others
+<pb n="4" facs="tcp:38515:4"/>Northwards, <hi>&amp;c.</hi> And further he tells us, that St. <hi>Dunſtan</hi> the Biſhop, termed to be the Patron of the Goldſmiths, had no other Elixar or Philoſophers Stone than the Cold and Sil<g ref="char:EOLhyphen"/>ver, which by the Benefit of Fiſhing was obtained; whereby the Kingdoms Plate and Bullion was procured. For the ad<g ref="char:EOLhyphen"/>vancement of which Fiſhing-Trade he did adviſe, that three Fiſh-days ought to be kept in a week, which cauſed alſo more abſtinence; and hence the Proverb came, <hi>That</hi> St. Dunſtan <hi>took the Devil by the noſe with his pinchers.</hi> All which recital is to ſhew, that the Engliſh formerly had the ſole Fiſhing, and did ſerve the <hi>Netherlands</hi> and all other Nations with Pickled-herrings, Cod, and Ling, whereby the Poor were relieved, and Trading thereby much cheriſhed: which Im<g ref="char:EOLhyphen"/>ployment the <hi>Netherlanders</hi> having gotten, the States of <hi>Holland</hi> and <hi>Weſt-Freizland,</hi> by their Proclamation ſay, that the Trade of the general fiſhing for Herrings, and the great fiſhings, is one of the principal Means and Happineſs of their Countries and the Inhabitants thereof. Now for as much as his Majeſty was graciouſly pleaſed to receive a Petition exhi<g ref="char:EOLhyphen"/>bited in <hi>June,</hi> 1660. The Copy whereof followeth.</p>
+            <q>
+               <pb n="5" facs="tcp:38515:4"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>
+                           <hi>TO THE High and Mighty MONARCH CHARLES the Second, By the Grace of God King of</hi> England, Scotland, France <hi>and</hi> Ireland, <hi>Defendor of the Faith,</hi> &amp;c.</head>
+                        <head type="sub">The Humble Petition of <hi>Simon Smith,</hi> late Agent for the Royal Fiſhing.</head>
+                        <opener>SHEWETH,</opener>
+                        <p>THat Your Majeſties late Royal Father of Glorious Memory, did in the year <hi>1632.</hi> upon the following Motives, <hi>viz.</hi>
+                        </p>
+                        <p n="1">
+                           <hi>1.</hi> The great plenty of Fiſh in the Seas, Ri<g ref="char:EOLhyphen"/>vers, and Creeks of His Majeſties Dominions.</p>
+                        <p n="2">
+                           <hi>2.</hi> The employment of all ſorts of People.</p>
+                        <p n="3">
+                           <hi>3.</hi> The advancement of Trade.</p>
+                        <p n="4">
+                           <hi>4.</hi> The increaſe of ſtrength to the Navie.</p>
+                        <p n="5">
+                           <hi>5.</hi> The profit that might accrew to His Ma<g ref="char:EOLhyphen"/>jeſties Subjects.</p>
+                        <p n="6">
+                           <hi>6.</hi> The increaſe of ſundry Manufactures for ſetting at work idle and vagrant people, whereby they may be able to relieve themſelves
+<pb n="6" facs="tcp:38515:5"/>and others, and Merchandize and Traffick may by their induſtry be improved; Conſtitute and eſtabliſh a Society of Fiſhers, and decla<g ref="char:EOLhyphen"/>red that he was reſolved by all good occaſions favourably to aſſiſt the ſaid Trade, and graci<g ref="char:EOLhyphen"/>ouſly to accept the forwardneſs of all thoſe who ſhould expreſs their zeal to His Majeſties Ser<g ref="char:EOLhyphen"/>vice in ſo general and publick an undertaking; it being then reſolved and concluded by His Majeſty, that the ſaid Trade in it ſelf was very honourable and neceſſary for this Kingdom, as alſo hopefull and likely to prove very beneficial to the particular Adventurers. Now, that the true managing, and moſt advantagious proſe<g ref="char:EOLhyphen"/>cution thereof, is by experience diſcovered, as by the Petitioners Book annexed are expreſſed. Whereupon the Right Honourable <hi>Philip</hi> late Earl of <hi>Pembroke</hi> and <hi>Mountgomery,</hi> and his Aſſociates, did cauſe ſundry Veſſels to be built, which imployed many Families in ma<g ref="char:EOLhyphen"/>king of Nets and other Proviſions which yearly went out to the fiſhing, and performed the ta<g ref="char:EOLhyphen"/>king and curing of Herrings and Barrel-Cods, and found Foraign vent, which continued until the year <hi>1640.</hi> although the Adventurers were much hindered and damaged by the <hi>Dun<g ref="char:EOLhyphen"/>kirkers,</hi>
+                           <pb n="7" facs="tcp:38515:5"/>to the value of ten thouſand pounds and upwards, for which no Reparation could be as yet had, whereby the proſecution thereof was given over, and the Fiſhers and others that were trained up to a right underſtanding of the buſineſs, were diſperſed by reaſon of the National Troubles increaſing; which Troubles having begotten great numbers of poor Fami<g ref="char:EOLhyphen"/>lies and Vagrants in the Nation, who for want of Employment are brought into a miſerable condition, and will periſh unleſs ſome ſpeedy courſe be taken for their relief. The conſidera<g ref="char:EOLhyphen"/>tion whereof hath ſtirred up Your Petitioner humbly to preſent this Herring-Buſs Fiſhing to Your Majeſty, as the onely Employment for redreſs therein; Firſt, For the making of Nets, which will ſet on work all ſorts of people, both young and old, in the Trades of <hi>Hemp-beaters, Hatchelers, Hemp-dreſſers, Twine-ſpinners, Net-makers, Beeteſters, Brayders, Labourers</hi> for tanning the Nets, <hi>&amp;c.</hi> Alſo, <hi>Shipwrights, Joyners, Maſt-makers, Pully-makers, Rope-makers, Sail-makers, Smiths,</hi> and ſundry others; Alſo the provi<g ref="char:EOLhyphen"/>ſions for Casks, Clap-boards, Coops, <hi>Cleevers, Hoopers</hi> and others; The Manufactures of,
+<pb n="8" facs="tcp:38515:6"/>and belonging to every Buſs will ſet on work twenty Families, beſides the breeding of Coun<g ref="char:EOLhyphen"/>try Youths to be ſerviceable Mariners in ſhort time, the exportation of the Herring to Foraign parts, will imploy many Ships, and make a greater importation of commodities, as Hemp, Pitch, Tarr, Rozen, Maſts, Deals, Clap-boards, Salt, and ſundry other Proviſions. This Work being of ſo great conſequence, requires Your Majeſties moſt gracious and ſerious conſidera<g ref="char:EOLhyphen"/>tion, to be made a National buſineſs, and ſuch perſons choſen for the managing thereof, as for conſcience ſake, may be for the publick good, and not ſelf-ends; for if it be recommended to all <hi>Corporations</hi> in the Nation, and in every <hi>County,</hi> to raiſe a ſtock to buy Hemp and o<g ref="char:EOLhyphen"/>ther Materials, to ſet their poor on work, and to provide Artiſts to teach and manage the ma<g ref="char:EOLhyphen"/>king of Nets, <hi>&amp;c.</hi> to be ſent to a Magazine, at the next Port a B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſs may be there built and furniſhed out for that <hi>County, Town</hi> or <hi>Cor<g ref="char:EOLhyphen"/>poration,</hi> and ſo in the Fiſhing-ſeaſon may go forth to the Fiſhing-grounds at the Iſland of <hi>Sheteland,</hi> where the <hi>Hollander</hi> hath his Rende<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>vouz for all his Buſſes, as by the an<g ref="char:EOLhyphen"/>nexed Book thereof appeareth, and return with great profits to the Imployers.</p>
+                        <pb n="9" facs="tcp:38515:6"/>
+                        <p>
+                           <hi>Your Petitioner therefore moſt hum<g ref="char:EOLhyphen"/>bly implores Your Majeſties graci<g ref="char:EOLhyphen"/>ous favour to take the Premiſſes in<g ref="char:EOLhyphen"/>to Your Majeſties Conſideration, and to give ſuch furtherance and countenance to the ſame, as to Your Gracious Majeſty ſhall ſeem fitting, and the benefit of ſuch a buſineſs requires.</hi>
+                        </p>
+                        <closer>And Your Petitioner ſhall ever pray for Your Majeſties long and happy Reign over us.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And thereupon<g ref="char:punc">▪</g> His Majeſty (manifeſting his great deſire to have all his poor People imployed) did the 23 of <hi>July</hi> fol<g ref="char:EOLhyphen"/>lowing write his Letter to the Lord Mayor of the City of <hi>London;</hi> as is hereafter expreſſed.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>CHARLES R.</signed>
+                  </opener>
+                  <p>RIght Truſty and well-beloved, We greet you well. Whereas Our Royal Father of Bleſſed Memo<g ref="char:EOLhyphen"/>ry, did in the year <hi>1632.</hi> Conſtitute and Eſtabliſh a Society of Fiſhers, and De<g ref="char:EOLhyphen"/>clared that He was reſolved by all good occaſions favourably to aſſiſt, and
+<pb n="10" facs="tcp:38515:7"/>graciouſly accept the forwardneſs of all thoſe that ſhould expreſs their zeal to His Majeſties Service in ſo general and publick an <g ref="char:V">Ʋ</g>ndertaking; It be<g ref="char:EOLhyphen"/>ing then Reſolved and Concluded by His Majeſty, that it was very honora<g ref="char:EOLhyphen"/>ble &amp; neceſſary for this Kingdom. Now that the true managing and moſt advan<g ref="char:EOLhyphen"/>tageous proſecution thereof, is by expe<g ref="char:EOLhyphen"/>rience diſcovered by <hi>Philip</hi> late Earl of <hi>Pembroke</hi> and <hi>Mountgomery</hi> and his Aſſociates, who did cauſe ſundry Fiſhing Veſſels to be provided and built, which imployed many Families in making of Nets and other Proviſi<g ref="char:EOLhyphen"/>ons (one Veſſel imploying twenty Fa<g ref="char:EOLhyphen"/>milies in work) beſides the breeding of Country Youths to be made ſervice<g ref="char:EOLhyphen"/>able Mariners in ſhort time, as by the Book called <hi>The Royal Herring Buſs Fiſhings,</hi> preſented unto <g ref="char:V">Ʋ</g>s doth
+<pb n="11" facs="tcp:38515:7"/>plainly appear. And whereas We are informed that the Nation doth abound with great numbers of poor Families and Vagrants, who for want of imploy<g ref="char:EOLhyphen"/>ment are like to periſh, unleſs ſome ſpee<g ref="char:EOLhyphen"/>dy care be taken for their relief: And that the ſeveral Wards and Suhurbs of this Our City of <hi>London</hi> and Hamlets adjacent, are burthened with multi<g ref="char:EOLhyphen"/>tudes of poor people, not onely which are born in the ſaid places, but ſuch as come out of ſundry Countries to ſeek Relief: For Redreſs whereof, We do hereby recommend unto the care of You Our Lord Mayor of the ſaid City, to adviſe with each Alderman, and cauſe his VVard-moote Inqueſt to give in a par<g ref="char:EOLhyphen"/>ticular of all the poor Inhabitants with<g ref="char:EOLhyphen"/>in his VVard, what their employment is, and how many are without employ<g ref="char:EOLhyphen"/>ment, and preſent the ſame to the reſt of
+<pb n="12" facs="tcp:38515:8"/>the Inhabitants in his VVard, with a Copy thereof, and excite them to a free ſubſcription for raiſing a Stock to buy Hemp and Clapboards to make Her<g ref="char:EOLhyphen"/>ring Fiſhing-nets, and Barrels for the furniſhing and fitting out of one Buſs or Fiſhing Veſſel to belong to the ſaid Ward, which will give all the Poor and Vagrants employment; the ſaid Ward husbanding the ſame to their beſt advantage. The which We ſhall in like manner recommend to all the Counties, Cities and Towns within Our Dominions, whereby to make it a Na<g ref="char:EOLhyphen"/>tional employment for the general good, and will give all fitting aſſiſtance unto the <g ref="char:V">Ʋ</g>ndertakers for their encourage<g ref="char:EOLhyphen"/>ment. That, ſo when Proviſions ſhall be made ready and Store-houſes built in commodious places about the River of <hi>Thames,</hi> (where breaches have been
+<pb n="13" facs="tcp:38515:8"/>made) and the like in the ſeveral Ports, Magazines may be fitted with Nets, Caske, Salt and all things in rea<g ref="char:EOLhyphen"/>dineſs, the Buſſes may all go forth to Our Iſland of <hi>Sheteland</hi> as their Ren<g ref="char:EOLhyphen"/>dezvouz to keep together in their fiſh<g ref="char:EOLhyphen"/>ing, according to certain Orders preſcri<g ref="char:EOLhyphen"/>bed in the aforeſaid Book. And to take that priviledge of the Fiſhing-grounds which belongs to <g ref="char:V">Ʋ</g>s before all Nations whatſoever. And ſo <hi>We</hi> bid you heartily farewell.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Given at our Court at</hi> Whitehall <date>
+                           <hi>this 23 day of</hi> July, <hi>in the Twelfth year of our Raign.</hi>
+                        </date>
+                     </dateline>
+                     <signed>By His Majeſties Command. ED. NICHOLAS.</signed>
+                  </closer>
+                  <trailer>To our Right Truſty and well-beloved, the <hi>Lord Mayor</hi> of Our City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> to be Communicated to the Court of Aldermen.</trailer>
+               </body>
+            </floatingText>
+            <pb n="14" facs="tcp:38515:9"/>
+            <p>But although it be thirteen Moneths ſince, there is nothing done therein; which His Majeſty finding ſo great remiſneſs in putting the buſineſs into action, hath now granted a Com<g ref="char:EOLhyphen"/>miſſion unto 36 Noble Perſonages and great Officers, whom His Majeſty hath nominated and conſtituted to be the Coun<g ref="char:EOLhyphen"/>cil of the <hi>Royal Fiſhing</hi> of <hi>Great Britain</hi> and <hi>Ireland,</hi> of which His Majeſty will vouchſafe ever to be, and be called Protectors; and hath granted many Priviledges and Immu<g ref="char:EOLhyphen"/>nities, as to Perſons, Veſſels, and Goods, as therein is largely expreſſed; which being under the Great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> is printed; together with the Letters-Patents for a free Collection over all <hi>England</hi> and <hi>Ireland,</hi> and Dominion of <hi>Wales,</hi> committed to the care of the High Sheriffs in every County, to be read in all Pariſhes; ſent under the Seal of the Right Honourable the Earl of <hi>Pembroke,</hi> who is appointed by His Majeſty to be the Treaſurer for receiving and paying out of all ſuch moneys as ſhall be paid unto him; which Mo<g ref="char:EOLhyphen"/>neys is onely to be imployed in the building of Wharfs, Docks, Storehouſes, and Graineries, for the eaſe and accom<g ref="char:EOLhyphen"/>modation of all thoſe that ſhall imploy any Stock in building of Buſſes; the want whereof formerly hindred the Adven<g ref="char:EOLhyphen"/>turers, and put them unto extraordinary charges, having no convenient places for receiving Proviſions, and tanning and drying their Nets, and repacking their Herrings, to make them Merchantable Ware for Foraign vent, according to the <hi>Holland</hi> Orders expreſſed in the Book called, <hi>The Royal Herring-Buſs Trade.</hi> So that now whatſoever ſhall be col<g ref="char:EOLhyphen"/>lected in the County, City, or Shire, ſhall be applied unto that Port which doth thereunto belong, for the building them Store-houſes, Wharfs, <hi>&amp;c.</hi> whether the work of the Poor, in making of Deepings or Quarter-nets of 60 maſhe deep and 40 yards long, may be ſent, and there tanned und made up, and fitted for the Buſs or Buſſes which that County ſhall build or buy, and fit out againſt the ſeaſon of fiſhing, according as His Majeſties Letter expreſſeth. And becauſe the ſetting up a new Trade in the Countries not of late years taught or pra<g ref="char:EOLhyphen"/>ctiſed, will ſeem unacceptable unto ſome, yet the eaſineſs of learning, which is taught in half an hour to make a Maſhe in
+<pb n="13" facs="tcp:38515:9"/>the right manner, one will teach another; and the publiſhing of this Imployment will bring forth thoſe that are experienced to teach all the Arts thereunto belonging; and the getting of the Proviſions of Hemp to be beaten, hatcheled, and ſpun into Twine, for the making of Nets; wherein the leaſt child may be imployed, and the lame and blind may get a livelihood, and the Poor of every Pariſh raiſe by their labors weekly a ſufficient maintenance thereby to relieve them<g ref="char:EOLhyphen"/>ſelves and the aged and impotent of that place; whereby there will be no need of Aſſeſsments on the Pariſhioners for their maintenance, if once the buſineſs were in action, the benefit thereof would ſoon appear. For incouragement, we have the <hi>Hollanders</hi> flouriſhing eſtate before us, who by this Fiſhing-Trade commands the Wealth of all Nations, and cauſeth all the Poor of the <hi>Netherlands</hi> to live comfortably, and not a Beggar or Vagrant to be ſeen amongſt them. For there is not a Maid-ſervant amongſt them, but hath her Ad<g ref="char:EOLhyphen"/>venture in the Buſſes that go out, and hath her proportion<g ref="char:EOLhyphen"/>able profit at the return of the Buſſes; which makes them take ſpare time to make half a dozen of Nets in the winter, and fits them ready againſt the Seaſon, to ſend as her Adven<g ref="char:EOLhyphen"/>ture, and at return receives them, and gets them tanned, newed, and fitted againſt the next ſetting out, having made as many more ready to put in their rooms; and ſo every one looks to the preſervation and husbanding of their own Nets, which is a great help in the diſpatch of the Buſs to her Fiſhing-grounds. And that the Fiſhermen may have all Proviſions ready in the Store-houſes, of Salt, Cask, and Nets, with Beer and Bisket, <hi>&amp;c.</hi> for their diſpatch. And if the monied-men in the County or place where theſe Magazines ſhall be erected will be pleaſed to imploy their Monies in furniſhing the Store-houſes with the Proviſions for the Fiſhers, they will finde it their beſt Trade; for the Merchants and others that will ſet out Buſſes, will be much incouraged in their Proceedings, when as they know there are Wharfs and Magazines for their accommodations, as it is in the <hi>Netherlands,</hi> where the Ship-wrights have in their Docks, Buſſes to ſell ready for the Mer<g ref="char:EOLhyphen"/>chant to buy, or to hire, and Nets, Wayeropes, and all Proviſions in the Magazines to be bought, and in a few days they are furniſhed out to the Fiſhing-grounds without loſs of
+<pb n="16" facs="tcp:38515:10"/>time; ſo that any one, either by himſelf or in an Aſſociation, may pleaſe to make an experiment of the Trade, and ſhall enjoy all the Priviledges that are granted, mentioned in the Commiſſion, to make his Imployment profitable, for his fu<g ref="char:EOLhyphen"/>ture incouragement.</p>
+            <p>Now foraſmuch as ſince the publiſhing of His Majeſties Letters-Patents in the Churches, the generality not much re<g ref="char:EOLhyphen"/>garding what was read, having been too often troubled with Briefs, gave in a formal way very ſparingly; others not con<g ref="char:EOLhyphen"/>ceiving the buſineſs, took ſome prejudice thereat; and others deſiring to be better informed how to begin and ſet upon the Work, I do humbly offer theſe particulars following, for ex<g ref="char:EOLhyphen"/>plaining and information of the Work.</p>
+            <p>Firſt, If any man will propoſe by himſelf alone to imploy a Stock in ſetting out of one Herring-Buſs, the burthen not exceeding 60 Tuns, which is the beſt proportion, and will re<g ref="char:EOLhyphen"/>quire 800 <hi>l.</hi> ſtock; for there muſt be 100 Nets fitted, which is, 50 at ſetting out, and 50 kept ready at return, when the Buſs delivers her firſt 50 to be newed and tanned againſt her ſecond return; the Buſs may be built or bought, as beſt can be provided, an able Husband being firſt gotten, that can ma<g ref="char:EOLhyphen"/>nage the buſineſs with knowledge and honeſty in the frugalleſt way, who may procure able Fiſhermen, and may ſoon be fur<g ref="char:EOLhyphen"/>niſhed out of thoſe ſmall Boats which are called Traules, Cob<g ref="char:EOLhyphen"/>bles, and Trinckerboats, which fiſh all about the Coaſts, which being poor men, by thoſe ſmall Veſſels can hardly maintain their Families, and therefore would hold it great preferment to be called into ſuch Buſſes; and from <hi>Yarmouth</hi> get two or three good Gippers, Salters, and Packers of the Herrings, and good Maſters who are trained up thereunto, who would gladly be imployed; and their Art and Skill in one Voyage would be attained. The directions of all things belonging, I have particularly expreſſed in my Book called, <hi>The Herring-Buſs Trade,</hi> to be had at the Widow <hi>Bourns</hi> Shop, at the South entrance of the <hi>Royal Exchange, London,</hi> to which refer.</p>
+            <p>Secondly, He ſhall have the accommodation of the Wharfs, Docks and Storehouſes which are to be builded in all places where the conveniency will be moſt advantagious for the bu<g ref="char:EOLhyphen"/>ſineſs, there to have the Nets tanned and dried, newed and fitted up, and their Herring packed and made merchantable
+<pb n="17" facs="tcp:38515:10"/>for Foraign vent; according to the <hi>Hollanders</hi> Orders in the ſaid Book; which will be both very convenient and profita<g ref="char:EOLhyphen"/>ble, for it will ſave 10 <hi>per cent.</hi> in charges.</p>
+            <p>Thirdly, He ſhall enjoy all the Priviledges and Immuni<g ref="char:EOLhyphen"/>ties granted by His Majeſties Commiſſion, and reap the Pro<g ref="char:EOLhyphen"/>fits to himſelf, and have his Stock at his own command, onely to be ready by the laſt of <hi>May</hi> to ſet forth for the Iſland of <hi>Sheteland,</hi> whither all the Buſſes are firſt to go as their Ren<g ref="char:EOLhyphen"/>dezvouz, and obſerve the Orders; whereof every Buſs at the ſetting out from the Port, ſhall receive a printed Paper of Directions and Orders to be obſerved, according as the Agents deputed and authorized ſhall appoint.</p>
+            <p>And having met with a Manuſcript (the Author and time unknown) concerning this Herring-Fiſh-Trade, apprehending the ſame to be worth the publiſhing, have added it in this my Treatiſe, directly as the Author hath framed it, which men of ingenuity may make uſe of to their beſt advantage.</p>
+            <div type="part">
+               <head>A Deſign for <hi>G. B. M<hi rend="sup">o</hi>
+                  </hi> for Sea-Security.</head>
+               <p>THE firſt thing required is Strength, to Defend and Offend, as occaſion requires; that is, the Making and Building of 156 Sail of Ships. And for a Petty Navy-Royal to be Men of War, fitting in all points, in a proportion aſ<g ref="char:EOLhyphen"/>ſign'd as may be related in all particulars. And the Charge may be 388000 l.</p>
+               <p>If this may be performed, then employ 78 Sail, being the one half of 156, to be at Sea, and there to continue the full time of ſix Months; and at the ſix Months end, the other 78 Sail to be with the former, to relieve thoſe Seas and Sea-places, as the former hath done; and there to continue the full time of ſix Months more. And the former to return preſently to the Ports aſſigned to them. And ſo from ſix Months to ſix Months to continue for ever.</p>
+               <p>The Uſe of this Navy is great, in defending our Sea<g ref="char:EOLhyphen"/>coaſts, as this deſign requires. Firſt, we begin from <hi>Shotland,</hi> in 59 <hi>degrees</hi> 30 <hi>minutes</hi> North-Latitude, and down round about the <hi>South</hi> part of <hi>England, Wales,</hi> and <hi>South-South Weſt,</hi> and <hi>Weſt</hi> Coaſt of <hi>Ireland,</hi> up to the <hi>Black-Rock</hi> in
+<pb n="18" facs="tcp:38515:11"/>53 <hi>degrees</hi> 30 <hi>minutes</hi> North-Latitude. In this Petty Navy-Royal may be employed 7848 Men, both with Vi<g ref="char:EOLhyphen"/>ctuals and Pay, and the Charge may be 188352 l. a year.</p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>The Proportion aſſigned for the</hi> 90 Buſſes, <hi>are theſe</hi> 6 <hi>Sorts, and according to theſe, all the reſt go generally in proper<g ref="char:EOLhyphen"/>tion the one to the other in their nature.</hi>
+                     </head>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>B.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Tun.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>1¾</cell>
+                        <cell>15</cell>
+                        <cell>122½</cell>
+                     </row>
+                     <row>
+                        <cell>1½</cell>
+                        <cell>15</cell>
+                        <cell>105</cell>
+                     </row>
+                     <row>
+                        <cell>1¼</cell>
+                        <cell>15</cell>
+                        <cell>087½</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>15</cell>
+                        <cell>070</cell>
+                     </row>
+                     <row>
+                        <cell>¼</cell>
+                        <cell>15</cell>
+                        <cell>052½</cell>
+                     </row>
+                     <row>
+                        <cell>½</cell>
+                        <cell>15</cell>
+                        <cell>035</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>90</cell>
+                        <cell>472½</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>
+                        <hi>The Charge in general for the</hi> 90 Buſſes, Nets, Victuals, <hi>and</hi> Pay, <hi>in</hi> 4 <hi>years time.</hi>
+                     </head>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>90 B</cell>
+                        <cell>46164</cell>
+                        <cell>07</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell>5070 N</cell>
+                        <cell>27330</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>1 Y Fiſh C</cell>
+                        <cell>57579</cell>
+                        <cell>08</cell>
+                        <cell>09</cell>
+                     </row>
+                     <row>
+                        <cell>2 Y Fiſh C</cell>
+                        <cell>72576</cell>
+                        <cell>11</cell>
+                        <cell>03</cell>
+                     </row>
+                     <row>
+                        <cell>3 Y Fiſh C</cell>
+                        <cell>67281</cell>
+                        <cell>11</cell>
+                        <cell>03</cell>
+                     </row>
+                     <row>
+                        <cell>4 Y Intereſt C</cell>
+                        <cell>43200</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>The gen. Charge in 4 Year</cell>
+                        <cell>314130</cell>
+                        <cell>18</cell>
+                        <cell>19</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>The Profit of fiſh taken in the three years time.</head>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>3 Y Fiſh P</cell>
+                        <cell>449550</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>3 Y tenth</cell>
+                        <cell>044955</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>R in M P</cell>
+                        <cell>404595</cell>
+                        <cell>99</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>4 Y C</cell>
+                        <cell>314130</cell>
+                        <cell>18</cell>
+                        <cell>09</cell>
+                     </row>
+                     <row>
+                        <cell>R in M P</cell>
+                        <cell>090464</cell>
+                        <cell>01</cell>
+                        <cell>03</cell>
+                     </row>
+                     <row>
+                        <cell>R in Stock M</cell>
+                        <cell>067281</cell>
+                        <cell>11</cell>
+                        <cell>03</cell>
+                     </row>
+                     <row>
+                        <cell>R in M cle</cell>
+                        <cell>023182</cell>
+                        <cell>10</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>If this aforeſaid being performed, then this deſign fol<g ref="char:EOLhyphen"/>lowing may well proſper, with great encreaſe to <hi>G. B. M.<hi rend="sup">o</hi>
+                  </hi>
+                  <pb n="19" facs="tcp:38515:11"/>both in ſtrength and in wealth, to defend that againſt any two Kings in Chriſtendom.</p>
+            </div>
+            <div type="part">
+               <head>A Proportion aſſigned touching the Art of Fiſhing.</head>
+               <p>If 90 Adventurers put in 1500 <hi>l.</hi> a man, to make a Stock of a 135000 <hi>l.</hi> to continue for 4 years time, and allowing Intereſt 8 <hi>per cent.</hi> for the <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e.</p>
+               <p>And the Stock of 135000 <hi>l.</hi> will perform this deſign; that is, to build and make thoſe 90 Buſſes in a proportion aſſign'd: and 5070 Nets to furniſh thſe 90 Buſſes, and alſo to Victual and Pay, Cask and Salt, as it may be in particulars appear.</p>
+               <p>Here it appeareth, that the Stock 135000 <hi>l.</hi> is all paid, and in 3 years time of Fiſhing and Intereſt 43200 <hi>l.</hi> paid; and the tenth of Fiſh 44955 <hi>l.</hi> paid, which is in all 223155 <hi>l.</hi> paid.</p>
+               <p>And reſt in Stock,
+<table>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Re. in Stock 90 B</cell>
+                        <cell>46164</cell>
+                        <cell>07</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell>R in Stock 5070 N</cell>
+                        <cell>27330</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>R in Stock in M</cell>
+                        <cell>67281</cell>
+                        <cell>11</cell>
+                        <cell>03</cell>
+                     </row>
+                     <row>
+                        <cell>RG in Stock b.n.m.</cell>
+                        <cell>140775</cell>
+                        <cell>18</cell>
+                        <cell>09</cell>
+                     </row>
+                     <row>
+                        <cell>R in Caſh in M</cell>
+                        <cell>23182</cell>
+                        <cell>10</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <row>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label"> </cell>
+                        <cell role="label"> </cell>
+                        <cell role="label"> </cell>
+                        <cell role="label"> </cell>
+                     </row>
+                     <row>
+                        <cell>13500</cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>l.</hi>
+                        </cell>
+                        <cell>
+                           <hi>s.</hi>
+                        </cell>
+                        <cell>
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>043200</cell>
+                        <cell>Reſt in Caſh in M</cell>
+                        <cell>23182</cell>
+                        <cell>10</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>044955</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>—</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>223155</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The 90 Adventurers out of this <hi>R.</hi> in Caſh take 250 <hi>l.</hi> a man clear gain, and <hi>R.</hi> in Caſh 682 <hi>l.</hi> 10 <hi>s.</hi> 00 <hi>d.</hi> over and above all charges deducted: And in 4 years time a good profit.</p>
+               <p>So here it appeareth, that the 90 Adventurers hath gained 140775 <hi>l.</hi> 18 <hi>s.</hi> 09 <hi>d.</hi> for a continual Stock always yearly to be employed, with allowance yearly in the charge before propounded, 67281 <hi>l.</hi> 18 <hi>s.</hi> 09 <hi>d.</hi> therein for the repair<g ref="char:EOLhyphen"/>ing both of Buſſes, Nets, Salt, Cask, as need requires.</p>
+               <pb n="20" facs="tcp:38515:12"/>
+               <p>And every Adventurer hath clear to himſelf 250 <hi>l.</hi> in ready mony for their pains, and yet a reſt in Caſh 682 <hi>l.</hi> 10 <hi>s.</hi> over and above all charges. And if good-husbandry be therein performed, there may be the better part of 20000 <hi>l.</hi> ſaved, and made by the beſt advantage, in managing the ſame. But I leave that to their wiſdoms, that ſhall perform the deſigne.</p>
+               <p>All this is gained, and that in 4 years time.</p>
+               <p>After this time, then every years Fiſhing for Herring, Ling, and Cod, there may be gained by well employing this Stock 67281 <hi>l.</hi> 11 <hi>s.</hi> 03 <hi>d.</hi> the ſum of 700 <hi>l.</hi> a year to each Adventurer; a fair purchaſe, and without any mony given for it.</p>
+               <p>If it prove but 600 <hi>l.</hi> a year, it is a great encreaſe; and maintain better than 100000 perſons, Men, Women, and Children.</p>
+               <p>Now admitting 16 men and boys to ſerve in a Buſs, they may be theſe, a Maſter, a Mate, 4 Fiſhermen, 4 ordinary Say<g ref="char:EOLhyphen"/>lors, and then 6 Land-men and boys to be trained up by the former in the Art of Sayling and Craft of Fiſhery, it will be a means that every Buſs ſhall be a Seminary of Saylors and Of<g ref="char:EOLhyphen"/>ficers; which will be no ſmall addition to the ſtrength of this Kingdom.</p>
+               <p>And whereas its doubted, we ſhall not finde utterance and ſale of Herrings when we have them; I am informed that there is yearly uttered and ſpent in His Majeſties own Domi<g ref="char:EOLhyphen"/>nions, 10000 Laſts of Herrings, which being ſerved by our ſelves, will keep in the Land abundance of Treaſure, which the <hi>Dutch</hi> yearly carries out for the Herrings which they catch on our own Coaſts and ſell to us.</p>
+            </div>
+            <div type="part">
+               <head>Sundry Quaries and Objections offered to conſideration.</head>
+               <p n="1">1. Whether the raiſing of ſtock in the Pariſhes for ſetting of the poor on work, whereby they may get 3 <hi>s.</hi> 4 <hi>d.</hi> a week a piece for their maintenance, either by beating of Hemp, ſpinning of Twine, making of Nets, <hi>&amp;c.</hi> or by way of Aſ<g ref="char:EOLhyphen"/>ſeſsment in every Pariſh, to allow them 6 <hi>d.</hi> or 8 <hi>d.</hi> a week to maintain them in idleneſs; and ſo loſe that profit which their labours would produce, is moſt profitable and honourable for the Kingdom?</p>
+               <p n="2">
+                  <pb n="21" facs="tcp:38515:12"/>2. Whether any other Imployment for the Poor is more profi<g ref="char:EOLhyphen"/>table to the Kingdom than the Herring-fiſhing is? for the conſum<g ref="char:EOLhyphen"/>ptive charge is onely Salt and Barrels, the coſt thereof is but 4 <hi>s.</hi> for a <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rrel of pickled Herrings or Cod-fiſh, which is ſold for 20 <hi>s.</hi> And ſo there is gained by the labors of the Poor 16 <hi>s. per</hi> Barrel, for the wear and tear of the Buſs and Cordage. Or that the Stran<g ref="char:EOLhyphen"/>ger ſhall be permitted to ta<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Herrings and Fiſh at our ovvn doors, and make us to buy them at their ovvn price; vvhereas vve might ſerv<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and imploy many Ships in the exportation o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them, and in the imp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtation of their proceeds.</p>
+               <p n="3">3. Whereas it is d<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>red <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Fiſhmongers in <hi>London,</hi> that the Nation may be <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> eat Salt-fiſh certain days in the week, for the better vending thereof; it ſhall not need, for the Foraign vent will carry <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> more than out own Fiſhers can take; and that if ſuch an Injunction ſhould be, it would be a great damage to the Nobility and Centry of this Kingdom, becauſe their Tenants could not ſubſiſt without raiſing of Cattel for the improvement of their Farms, whereby they may have money to pay their Rents.</p>
+               <p n="4">4. This Fiſhing-trade will be both profitable to Piſhmongers, Craſiers, and Farmers; for every Fiſhing-Buſs is victualled forth with a quantity of Fleſh and Fiſh, and Bacon, Bisket, Peaſe, Oat<g ref="char:EOLhyphen"/>meal, Beer, Butter, Cheeſe, and ſundry Implements, &amp;c. which ſundry Tradeſmen will finde benefit by the furniſhing of all Neceſ<g ref="char:EOLhyphen"/>ſaries; and as the Buſſes do increaſe, ſo the expence will be more and more; and their victualling with freſh fiſh will coſt them no<g ref="char:EOLhyphen"/>thing but their pains to catch them.</p>
+               <p>It remains now, that men will up and be doing, to put ſo great, honourable, and profitable a buſineſs into action, without any fur<g ref="char:EOLhyphen"/>ther delay, putting the poor and vagrant People to work, for the making of Nets and other Proviſions againſt the 30 of <hi>May</hi> next, which is the time the Buſſes muſt go to the North Seas fiſhing, according to the ſeaſons wherein the Herrings riſe firſt at <hi>Shete<g ref="char:EOLhyphen"/>land,</hi> and the <hi>Doggerbank</hi> in <hi>June</hi> and <hi>July,</hi> about 100 Leagues eaſtward; which Herrings are called Seaſticks, and are bought at Sea, and carried to <hi>Danzick</hi> and <hi>Hamborough,</hi> and thoſe places near for vending of them, being fat Herrings, and muſt be ſpent.</p>
+               <p>This great Work of the <hi>Royal Fiſhing</hi> being put into a National Imployment, and not by way of a Corporation, or in a joint ſtock, is left to every mans liberty to imploy his own ſtock as he pleaſeth, either by himſelf apart, or in a way of Aſſociation, ſetting the Poor
+<pb n="22" facs="tcp:38515:13"/>on work to make his Deepings and Nets, and all Proviſions there unto belonging, and then he ſhall enjoy all the Priviledges granted by His Majeſty; and all the Profits he ſhall raiſe thereby, he ſhal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> enjoy to himſelf. So there will be no need of any Subſcription<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or raiſing a ſtock as the way of the <hi>Eaſt-India</hi> Company is. But th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeveral Wards and Hamblets about, and all the Towns, Cities, and Pariſhes in His Majeſties Dominion<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f <hi>England</hi> and <hi>Ireland,</hi> may raiſe ſtocks amongſt themſelves for ſetting of their poor on work, either by Subſcriptions or Aſſeſsments, or b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Leg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cies <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Gifts, and enjoy their Stocks and Profits to themſelves, together with all the Priviledges granted, or to be gran<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Majeſty. And thoſe Honourable Lords mentioned in the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mm<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, have nothing to do with their Stocks; they only appoint Law and Orders to be ob<g ref="char:EOLhyphen"/>ſerved for the batter government of the Tra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <gap reason="illegible" resp="#MURP" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ermen and Ma<g ref="char:EOLhyphen"/>riners, and to delegate Judges in all convenient places near the fiſh<g ref="char:EOLhyphen"/>ing Ports, to decide thoſe controverſies that ſhal arriſe; and to elect, conſtitute and depute, make and authorize, Officers, Miniſters, and Agents, to manage, act, and perform all ſuch Affairs, Buſineſs, Tranſ<g ref="char:EOLhyphen"/>actions and Imployments, as concern or be effectual and advantagi<g ref="char:EOLhyphen"/>ous to, and for, the carrying on this good and great Work; and to procute of His Majeſty from time to time all ſuch other Priviled<g ref="char:EOLhyphen"/>ges and Immunities neceſſary, as ſhall be deſired; and to cauſe that the monies gathered by the Briefs, and raiſed by the Lottery, ſhall be truly imployed in the building of Store-houſes, Wharfs, and Docks, for the benefit of all thoſe that ſhall ſet forth Buſſes, <hi>&amp;c.</hi> And the work which the Officers, Miniſters, and Agents, whom they ſhall delegate Power unto for managing this great Buſineſs, is.</p>
+               <p n="1">1. To procure the Monies collected by Briefs, and by the Lott<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry, to be ſpe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dily brought in to the Treaſurers.</p>
+               <p n="2">2. To viſit all the Po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts for the beſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nveniency of building Storehou<g ref="char:EOLhyphen"/>ſes and Docks.</p>
+               <p n="3">3. To contract for the Grounds with the Owners thereof.</p>
+               <p n="4">4. Treat with able and honeſt Workm<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> about the Buildings.</p>
+               <p n="5">5. To provide the Timber and Planks, and all materials.</p>
+               <p n="6">6. To place Overſeers and Viſitors over the workmen and Labourers to take care that they and every of them perform and do their works and labors ſufficiently and honeſtly.</p>
+               <p n="7">7. To ſettle Clerks to keep a Regiſter of all Contracts made, and to keep accompt of all the Materials bought and ſpent, that nothing be waſted or imbeſſeled.</p>
+               <p n="8">8. To keep a Leger-book of Accompts, wherein to poſt up all the Jour<g ref="char:EOLhyphen"/>nals and Caſh books belonging unto the buſineſs, both Debtor and Creditor, which may alwaies ſhew the Lords Commiſſioners the true ſtate of all the Tranſactions of their Buſineſs.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38515:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
